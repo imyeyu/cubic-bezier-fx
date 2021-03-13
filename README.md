@@ -1,4 +1,7 @@
-# cubic-bezier-fx
-cubic-bezier 的可视化程序
+# CubicBezier-FX
+[CubicBezier](https://github.com/imyeyu/cubic-bezier) 的可视化测试程序
 
-![Test](https://github.com/imyeyu/ImageBed/blob/master/PixelFX/0.png)
+依赖 [PixelFX](https://github.com/imyeyu/PixelFX)
+，间接依赖 [BetterFX]()
+
+![程序](https://github.com/imyeyu/ImageBed/blob/master/PixelFX/0.png)
