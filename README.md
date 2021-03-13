@@ -4,4 +4,4 @@
 依赖 [PixelFX](https://github.com/imyeyu/PixelFX)
 ，间接依赖 [BetterFX]()
 
-![程序](https://github.com/imyeyu/ImageBed/blob/master/PixelFX/0.png)
+![程序](https://github.com/imyeyu/ImageBed/blob/master/CubicBezierFX/0.png)
